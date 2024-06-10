@@ -1,7 +1,7 @@
 import streamlit as st
-import cv2
 import pandas as pd
 import numpy as np
+import cv2
 from PIL import Image
 
 def variance_of_laplacian(image):
